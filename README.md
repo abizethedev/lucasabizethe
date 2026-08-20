@@ -1,7 +1,12 @@
 <div align="center">
 
   <!-- Banner do Topo (Use Canva/Figma para gerar uma imagem parecida) -->
-  <img src="boas_vindas_codigo.png" alt="Boas Vindas Lucas" width="100%">
+<div align="center">
+
+  <!-- Banner do Topo via gerador automático -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
+
+  <br><br>
 
   <br><br>
 
