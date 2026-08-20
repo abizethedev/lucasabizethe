@@ -1,37 +1,54 @@
 <div align="center">
 
-  <!-- Banner do Topo (Use Canva/Figma para gerar uma imagem parecida) -->
-<div align="center">
-
-  <!-- Banner do Topo via gerador automático -->
+  <!-- Banner do Topo com Animação -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <br><br>
-
-  <br><br>
-
-  <!-- Subtítulo e Badges de Contato -->
-  ### Desenvolvedor Python & SQL • Sistemas de Informação • Automação & Backend
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
 </div>
+
+<br>
+
+<!-- Bloco do Perfil: Foto na Esquerda, Informações na Direita -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <!-- Coluna 1: Foto de Perfil Profissional -->
+    <td valign="top" width="220px">
+      <img src="https://replicate.delivery/xpbkg/H8fFw8pQ4cZ4I9F3O6k5Q5pW3wW0G7X9K2q3P8r3/output.png" alt="Lucas Abizethe" width="200px" style="border-radius: 50%;">
+    </td>
+
+    <!-- Coluna 2: Nome, Descrição e Botões de Contato -->
+    <td valign="top">
+      <br>
+      <h1>Lucas Abizethe</h1>
+      <h3>Desenvolvedor Python & SQL • Sistemas de Informação</h3>
+      <p><em>“Transformando problemas reais em soluções funcionais através do código.”</em></p>
+      
+      <br>
+      
+      <!-- Badges / Botões de Redes Sociais -->
+      <a href="https://github.com/abizethedev" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+      &nbsp;
+      <a href="https://www.linkedin.com/in/lucasabizethe" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+      &nbsp;
+      <a href="mailto:lucasabizethe16@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
 ### 🧠 Sobre Mim
 
-<img align="left" src="https://raw.githubusercontent.com/Tarikul-Islam-Anor/Github-GIF-Animated-Emojis/master/GIFs/Developer.gif" width="120px" alt="Dev">
+Me chamo Lucas, sou estudante de **Sistemas de Informação** na Estácio, focado em desenvolvimento backend, automação e banco de dados.
 
-Me chamo Lucas, sou estudante de **Sistemas de Informação** focado em desenvolvimento backend e análise de dados.
-
-Gosto de transformar problemas do dia a dia em código funcional através do Python e banco de dados.
+Gosto de transformar problemas do dia a dia em código funcional utilizando Python, SQL e tecnologias modernas de banco de dados.
 
 💡 *Acredito que programar é encontrar uma solução lógica e transformá-la em algo que possa ser utilizado de verdade.*
-
-<br clear="left">
 
 ---
 
@@ -56,15 +73,15 @@ Gosto de transformar problemas do dia a dia em código funcional através do Pyt
 
 ### 🎓 Formação Acadêmica
 
-🎓 **Sistemas de Informação**  
+🎓 **Bacharelado em Sistemas de Informação**  
  Estácio  
  *2026 — Atualmente*
 
 ---
 
-### 📈 Gráfico de Atividades (Activity Graph)
+### 📈 Gráfico de Atividades
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasabizethe&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abizethedev&theme=react-dark)
 
 ---
 
@@ -72,4 +89,4 @@ Gosto de transformar problemas do dia a dia em código funcional através do Pyt
 
 * 🚀 Estudando **Python, SQL e FastAPI**
 * 🛠️ Criando projetos práticos de automação e manipulação de banco de dados
-* 🎯 Em busca do primeiro estágio na área de desenvolvimento
+* 🎯 Em busca de oportunidades e primeiro estágio na área de tecnologia
