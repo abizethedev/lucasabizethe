@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner do Topo (Use Canva/Figma para gerar uma imagem parecida) -->
-  <img src="https://via.placeholder.com/800x200?text=bem+vindo+ao+meu+github" alt="Header" width="100%">
+  <img src="boas_vindas_codigo.png" alt="Boas Vindas Lucas" width="100%">
 
   <br><br>
 
